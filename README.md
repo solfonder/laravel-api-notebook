@@ -1,8 +1,9 @@
 ## REST API записной книжки
 ```
 1. Собрать композер
-2. $ php artisan migrate --seed
-3. $ php artisan serve
+2. Изменить настройки подключения к бд в .env
+3. $ php artisan migrate --seed
+4. $ php artisan serve
 ```
 ## Методы
 ```
